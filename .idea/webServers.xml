@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="aef541ac-6ce6-45b5-8b56-4109bb08e822" name="knowledge" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="$PROJECT_DIR$/../../sites/knowledge" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
